@@ -1,0 +1,88 @@
+* {
+  margin: 0% 0%;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  list-style: none;
+  font-family: jost;
+
+}
+
+/* .App{
+
+
+} */
+
+
+.card {
+  border: 1px solid rgba(243, 243, 243, 0.887);
+  margin: 5%;
+  align-content: center;
+  border-radius: 10px;
+  background-attachment: fixed;
+  background-size: contain;
+  background-color: rgb(240 240 240 / 65%);
+  background-blend-mode: color-dodge;
+  text-align: -webkit-center;
+  text-emphasis: unset;
+  color: #1979cdd8;
+  -webkit-text-stroke-width: thin;
+}
+
+.bx-h-t{
+  
+
+}
+
+.temp-t{
+ 
+  color: #3e769e;
+  display: flex;
+  align-content: center;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  
+}
+
+
+
+.temp-p{
+  margin: 0% 2%;
+  font-size: xxx-large;
+  color: rgba(148, 74, 218, 0.866);
+}
+
+.temp-g{
+  font-size: x-large;
+  color: rgb(139, 176, 224);
+
+}
+
+.bx-t{
+  /* display: grid;
+  align-items: center; */
+  display: grid;
+  align-items: center;
+  align-content: center;
+  justify-items: stretch;
+  justify-content: center;
+  
+}
+
+.cl-s{
+  font-size: xx-large;
+  color: rgba(74, 153, 218, 0.866);
+}
+
+.dts{
+
+  display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: stretch;
+}
